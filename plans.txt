@@ -1,0 +1,47 @@
+# Pages done
+    * App:
+        - Main
+        - menu
+        - detail
+        - filter
+    * web:
+        - Main
+
+# Pages to make
+    - favourite beach
+    - climate
+    - reviews
+    - write reviews
+    - restaurant Pages
+    - hostel page 
+    - alerts 
+    - booking page 
+    - call page (to owner or other user)
+    - setting 
+    - faq (frequently answered question)
+    - message (to owner, other user)
+    - write message 
+    - profile (self and other user)
+    - edit profile
+
+# should we add these page 
+    - Group building
+    - tourist guide
+    - subscription
+    - chatbot
+    - plan maker
+    - map 
+    - business owner 
+    - PRO_environment 
+    - Ads (only for free subscription)
+    - facts 
+    - blog 
+    - gallary
+
+# extra (explore section based on gps location)
+    - shopping
+    - hotel 
+    - restaurant 
+    - popular places 
+    - activities
+    - emergency service
